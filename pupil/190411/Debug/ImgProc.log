@@ -1,0 +1,13 @@
+﻿  src.cpp
+c:\github\digital_signal_processing_2019\pupil\190411\src.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\github\digital_signal_processing_2019\pupil\190411\src.cpp(47): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\github\digital_signal_processing_2019\pupil\190411\src.cpp(122): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\github\digital_signal_processing_2019\pupil\190411\src.cpp(145): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\github\digital_signal_processing_2019\pupil\190411\src.cpp(155): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\github\digital_signal_processing_2019\pupil\190411\src.cpp(279): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\github\digital_signal_processing_2019\pupil\190411\src.cpp(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+  LINK : C:\Github\Digital_Signal_Processing_2019\pupil\190411\Debug\ImgProc.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  ImgProc.vcxproj -> C:\Github\Digital_Signal_Processing_2019\pupil\190411\Debug\ImgProc.exe
