@@ -1,0 +1,21 @@
+﻿  src.cpp
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(47): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(122): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(145): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(155): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(279): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(280): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(281): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(288): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(289): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(290): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(297): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(298): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(299): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(309): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\user\onedrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\src.cpp(336): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+  ImgProc.vcxproj -> C:\Users\USER\OneDrive\바탕 화면\강의\2학년\1학기\디지털 신호 처리\과제\그라데이션\190502\Debug\ImgProc.exe
